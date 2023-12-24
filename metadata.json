@@ -1,7 +1,7 @@
 {
-  "name": "<OPERATOR_NAME>",
-  "website": "<YOUR_WEBSITE>",
-  "description": "<DESCRIPTION>",
-  "logo": "https://www.example.com/logo.png",
-  "twitter": "<YOUR_TWITTER>"
+  "name": "threepbrush",
+  "website": "www.threepbrush.io",
+  "description": "threepbrush",
+  "logo": "https://static.wikia.nocookie.net/vsbattles/images/1/18/LeChuck.png",
+  "twitter": "https://twitter.com/threepbrushwood"
 }
